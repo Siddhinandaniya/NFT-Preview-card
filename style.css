@@ -1,0 +1,136 @@
+body {
+  background-color: hsl(217, 54%, 11%);
+  height: 100vh;
+  font-family: "Outfit", sans-serif;
+}
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.card {
+  background-color: hsl(216, 50%, 16%);
+  width: 310px;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+/* overlay effect */
+.big-image {
+  border-radius: 10px;
+  width: 100%;
+  height: 100%;
+  cursor: pointer;
+}
+
+.two-image-div {
+  background-color: hsl(178, 100%, 50%);
+  width: 99%;
+  height: 300px;
+  border-radius: 10px;
+
+  /* this is for view pic */
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.big-image:hover {
+  opacity: 0.7;
+}
+.view {
+  position: absolute;
+  opacity: 0;
+}
+.two-image-div:hover .view {
+  opacity: 1;
+}
+
+/* overlay effect finish */
+
+.new-color-2:hover {
+  color: hsl(178, 100%, 50%);
+  cursor: pointer;
+}
+.Equilibrium:hover {
+  color: hsl(178, 100%, 50%);
+  cursor: pointer;
+}
+h2 {
+  color: hsl(0, 0%, 100%);
+}
+h3 {
+  color: hsl(215, 32%, 27%);
+  font-weight: 400;
+}
+.para-cont {
+  margin-top: 1px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.item-1-color {
+  color: hsl(178, 100%, 50%);
+}
+.item-2-color {
+  color: hsl(215, 51%, 70%);
+}
+.item {
+  margin-top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1rem;
+  font-weight: 400;
+}
+.para-1-img {
+  width: 13px;
+}
+.para-2-img {
+  width: 16px;
+}
+.left-padding {
+  padding-left: 6px;
+}
+/* hr {
+  color: hsl(215, 32%, 27%);
+  width: 90%;
+  border-top: 1px solid red;
+} */
+.style-two {
+  border: 0;
+  height: 0;
+  /* border-top: 1px solid hsl(215, 32%, 27%); */
+  border-bottom: 2px solid hsl(215, 32%, 27%);
+}
+.new-color-1 {
+  color: hsl(215, 32%, 27%);
+}
+.new-color-2 {
+  color: hsl(0, 0%, 100%);
+}
+.Avtar-img {
+  width: 16%;
+  size: 2%;
+  border-radius: 100px;
+  border: 1px solid white;
+}
+.avtar-cont {
+  display: flex;
+}
+.name {
+  padding-left: 10px;
+  font-size: 1rem;
+}
+
+/* @media (max-width: 1100px) {
+  .card {
+    width: 310px;
+  }
+} */
+@media (min-width: 375px) and (max-width: 1440px) {
+  .card {
+    width: 300px;
+  }
+}
