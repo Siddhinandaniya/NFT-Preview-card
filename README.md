@@ -22,8 +22,9 @@ This is my second Frontend Mentor project. A simple card component which contain
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/nftpreviewcard-using-html5-and-css3-AmY9EuZiz](https://www.frontendmentor.io/solutions/nftpreviewcard-using-html5-and-css3-AmY9EuZiz)
 - Live Site URL: [https://siddhinandaniya.github.io/NFT-Preview-card/](https://siddhinandaniya.github.io/NFT-Preview-card/)
+- Solution URL: [https://www.frontendmentor.io/solutions/nftpreviewcard-using-html5-and-css3-AmY9EuZiz](https://www.frontendmentor.io/solutions/nftpreviewcard-using-html5-and-css3-AmY9EuZiz)
+
 
 ## My process
 
