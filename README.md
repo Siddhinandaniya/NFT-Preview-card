@@ -18,13 +18,13 @@ This is my first Frontend Mentor project. A simple card component which contain 
 
 ### Screenshot
 
-![](./screenshot.png)
+![](./Screenshot.png)
 
 
 ### Links
 
-<!-- - Solution URL: [Add solution URL here](https://your-solution-url.com) -->
-- Live Site URL: [https://shamilussainc.github.io/qr-code-component/](https://shamilussainc.github.io/qr-code-component/)
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-qrcode-using-html-and-css-X6eD52VOy](https://www.frontendmentor.io/solutions/responsive-qrcode-using-html-and-css-X6eD52VOy)
+- Live Site URL: [https://siddhinandaniya.github.io/QR-Code/](https://siddhinandaniya.github.io/QR-Code/)
 
 ## My process
 
@@ -50,6 +50,5 @@ During this project i found flexbox really useful. i was looking for a way to po
 
 ## Author
 
-- Linkedin - [Shamil ussain c](https://www.linkedin.com/in/shamil-ussain-c-893282187/)
-- Frontend Mentor - [@shamilussainc](https://www.frontendmentor.io/profile/shamilussainc)
-- Twitter - [@c_ussain](https://twitter.com/c_ussain)
+- Linkedin - [Siddhi Nandaniya](https://www.linkedin.com/in/siddhi-nandaniya/)
+- Frontend Mentor - [@siddhinandaniya](https://www.frontendmentor.io/profile/Siddhinandaniya)
