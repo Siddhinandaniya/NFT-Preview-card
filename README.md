@@ -22,7 +22,7 @@ This is my second Frontend Mentor project. A simple card component which contain
 
 ### Links
 
-- Live Site URL: [https://siddhinandaniya.github.io/NFT-Preview-card/](https://siddhinandaniya.github.io/NFT-Preview-card/)
+- Live Site URL: https://Siddhie.github.io/NFT-Preview-card/
 - Solution URL: [https://www.frontendmentor.io/solutions/nftpreviewcard-using-html5-and-css3-AmY9EuZiz](https://www.frontendmentor.io/solutions/nftpreviewcard-using-html5-and-css3-AmY9EuZiz)
 
 
@@ -42,5 +42,6 @@ This is my second Frontend Mentor project. A simple card component which contain
 
 ## Author
 
-- Linkedin - [Siddhi Nandaniya](https://www.linkedin.com/in/siddhi-nandaniya/)
-- Frontend Mentor - [@siddhinandaniya](https://www.frontendmentor.io/profile/Siddhinandaniya)
+- Linkedin - [Siddhi Nandaniya](https://www.linkedin.com/in/siddhie/)
+- Frontend Mentor - [@siddhinandaniya](https://www.frontendmentor.io/profile/Siddhie)
+
